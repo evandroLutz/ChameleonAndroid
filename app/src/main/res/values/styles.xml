@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="WhiteAndroid">
+        <item name="color">#f5f3ed</item>
+    </style>
+
+    <style name="PurpleAndroid">
+        <item name="color">#ae1ae8</item>
+    </style>
+
+    <style name="BlackAndroid">
+        <item name="color">#63625d</item>
+    </style>
+
+    <style name="BlueAndroid">
+        <item name="color">#00b3ff</item>
+    </style>
+
+    <style name="GreenAndroid">
+        <item name="color">#297842</item>
+    </style>
+
+    <style name="PinkAndroid">
+        <item name="color">#ff9ee7</item>
+    </style>
+
+    <style name="RedAndroid">
+        <item name="color">#7a0e04</item>
+    </style>
+
+    <style name="LilacAndroid">
+        <item name="color">#ac72ac </item>
+    </style>
+
+    <style name="YellowAndroid">
+        <item name="color">#d4d428</item>
+    </style>
+
+    <style name="GreyAndroid">
+        <item name="color">#ccc8cb</item>
+    </style>
+
+
+
+
+</resources>

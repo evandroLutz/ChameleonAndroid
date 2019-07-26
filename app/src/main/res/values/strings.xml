@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">send</string>
+    <string name="droid">Droid</string>
+    <string name="Colorizedit">Colorize!</string>
+    <string name="Logo">Logo</string>
+    <string name="Go4all">Go 4 ALL!</string>
+</resources>

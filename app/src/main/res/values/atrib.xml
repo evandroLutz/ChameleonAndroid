@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ColorizeAndroid">
+        <attr name="color" format="color" />
+        <attr name="coloreyes" format="color" />
+
+
+    </declare-styleable>
+</resources>
